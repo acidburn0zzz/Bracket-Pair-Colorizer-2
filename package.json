@@ -180,7 +180,7 @@
     "license": "SEE LICENSE IN LICENSE.md",
     "dependencies": {
         "escape-html": "^1.0.3",
-        "json5": "^2.1.0",
+        "json5": "^2.2.2",
         "vscode-uri": "^1.0.6"
     }
 }
